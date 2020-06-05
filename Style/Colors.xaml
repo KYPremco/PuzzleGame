@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PuzzleGame">
+
+    <FontFamily x:Key="GameFont">pack://application:,,,/Style/Font/kenvector_future.ttf#kenvector future</FontFamily>
+
+    <Color x:Key="BackgroundGrayColor">#596a6c</Color>
+    <SolidColorBrush x:Key="BackgroundGrayBrush" Color="{StaticResource BackgroundGrayColor}" />
+
+    <Color x:Key="BackgroundBlueColor">#485B8C</Color>
+    <SolidColorBrush x:Key="BackgroundBlueBrush" Color="{StaticResource BackgroundBlueColor}" />
+</ResourceDictionary>

@@ -1,0 +1,606 @@
+{
+  "height": 12,
+  "width": 12,
+  "grid": [
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.PlayerEntity"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.WoodBlock"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.WoodFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.EmptyObject"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ],
+    [
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      },
+      {
+        "floor": "PuzzleGame.StoneFloor",
+        "gameObject": "PuzzleGame.SteelBlock"
+      }
+    ]
+  ]
+}

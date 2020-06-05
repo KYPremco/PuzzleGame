@@ -1,0 +1,7 @@
+﻿namespace PuzzleGame
+{
+    interface IMoveable
+    {
+
+    }
+}

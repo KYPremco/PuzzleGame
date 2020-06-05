@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:PuzzleGame">
+    <!-- Sprites -->
+    <BitmapImage x:Key="blueSprite" UriSource="pack://application:,,,/Sprites/GUI/blueSheet.png" />
+    
+    <!-- Images cropped -->
+    
+    <!-- Blue button -->
+    <CroppedBitmap x:Key="blueButtonUpImage" Source="{StaticResource blueSprite}" SourceRect="0 0 190 49"/>
+    <CroppedBitmap x:Key="blueButtonUpHoveredImage" Source="{StaticResource blueSprite}" SourceRect="190 0 190 49" />
+    <CroppedBitmap x:Key="blueButtonDownImage" Source="{StaticResource blueSprite}" SourceRect="0 49 190 45"/>
+    
+    
+</ResourceDictionary>
