@@ -1,4 +1,4 @@
-﻿using AutoUpdaterDotNET;
+using AutoUpdaterDotNET;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,13 +38,13 @@ namespace PuzzleGame
 
             gameObjectList.Clear(); //Maakt de listview leeg
             XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load(@"D:\development\PuzzleGame\old\Images\sokoban_spritesheet.xml"); //laad xmlbestand in xmlDoc
-            XmlNodeList imageNodes = xmlDoc.SelectNodes("//TextureAtlas/SubTexture"); //Zoek nodes
-            foreach (XmlNode image in imageNodes)
-            {
-                GameObject imageEntity = new GameObject() { name = image.Attributes["name"].Value, x = int.Parse(image.Attributes["x"].Value), y = int.Parse(image.Attributes["y"].Value), height = int.Parse(image.Attributes["width"].Value), width = int.Parse(image.Attributes["height"].Value) };
-                gameObjectList.Add(imageEntity);
-            }
+            //xmlDoc.Load(@"D:\Development\PuzzleGame-master\old\Images\sokoban_spritesheet.xml"); //laad xmlbestand in xmlDoc
+            //XmlNodeList imageNodes = xmlDoc.SelectNodes("//TextureAtlas/SubTexture"); //Zoek nodes
+            //foreach (XmlNode image in imageNodes)
+            //{
+            //    GameObject imageEntity = new GameObject() { name = image.Attributes["name"].Value, x = int.Parse(image.Attributes["x"].Value), y = int.Parse(image.Attributes["y"].Value), height = int.Parse(image.Attributes["width"].Value), width = int.Parse(image.Attributes["height"].Value) };
+            //    gameObjectList.Add(imageEntity);
+            //}
 
             foreach(GameObject gameObject in gameObjectList) 
             {
