@@ -8,7 +8,7 @@ Screenshots:
 
 ![alt image1](https://i.imgur.com/CDAljpY.png)
 
-![alt image1]https://i.imgur.com/QKIVBH7.png)  
+![alt image1](https://i.imgur.com/QKIVBH7.png)  
 
   
   
